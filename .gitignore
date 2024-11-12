@@ -1,0 +1,20 @@
+# Visual Studio
+**/.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Build outputs
+**/bin/
+**/obj/
+*.pdb
+
+# Packages
+**/packages/
+
+# Output and logs
+*.log
+*.tmp
+
+# Local settings
+appsettings.Development.json
