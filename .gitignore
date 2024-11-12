@@ -1,24 +1,20 @@
-# Visual Studio
+
 **/.vs
-*.suo
 *.user
+*.suo
 *.sln.docstates
 
-# Build outputs
 **/bin/
 **/obj/
 *.pdb
 
-# Packages
 **/packages/
 
-# Output and logs
 *.log
 *.tmp
+*.sln
 
-# Local settings
 appsettings.Development.json
 
-#Pastas
 .vs/
 .vs
